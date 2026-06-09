@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1,MSG (Madison Square Garden)
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:-1,HBO Zone HD
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1,HBO Comedy HD
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1,HBO 2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1,HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1,Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1,Cartoon Network USA
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1,Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1,France24
+http://149.100.11.235:8080/France24/index.m3u8
+#EXTINF:-1,Русская Ночь
+http://88b9da48.kazmazpaz.ru:80/iptv/KSA9NQPG94YUMQ/147/manifest.m3u8
+#EXTINF:-1,Playboy Россия
+http://88b9da48.kazmazpaz.ru:80/iptv/KSA9NQPG94YUMQ/527/manifest.m3u8
+#EXTINF:-1,Exxxotica HD Россия
+http://88b9da48.kazmazpaz.ru:80/iptv/KSA9NQPG94YUMQ/9346/manifest.m3u8
+#EXTINF:-1,ESPN2
+http://193.239.186.231/ESPN2/index.m3u8
+#EXTINF:-1,ESPN
+http://193.239.186.231/ESPN/index.m3u8
+#EXTINF:-1,BRAZZERS
+http://193.239.186.231/BRAZZERS/index.m3u8
+#EXTINF:-1,History HD
+http://23.88.66.93:80/History_HD/index.m3u8
+#EXTINF:-1,Fox Movies HD
+http://23.88.66.93:80/Fox_Movies/index.m3u8
+#EXTINF:-1,Fox Life HD
+http://23.88.66.93:80/Fox_Life/index.m3u8
+#EXTINF:-1,Fox HD
+http://23.88.66.93:80/Fox/index.m3u8
+#EXTINF:-1,National Geographic HD
+http://23.88.66.93:80/National_Geographic/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://23.88.66.93:80/HBO_2/index.m3u8
+#EXTINF:-1,HBO HD
+http://23.88.66.93:80/HBO/index.m3u8
+#EXTINF:-1,HBO3 HD
+http://23.88.66.93:80/HBO_3/index.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://23.88.66.93:80/Discovery/index.m3u8
+#EXTINF:-1,Penthouse 2
+http://185.98.209.11:81/penthouse2/index.m3u8?token=test
+#EXTINF:-1,Penthouse 1
+http://185.98.209.11:81/penthouse1/index.m3u8?token=test
+#EXTINF:-1,Pink Extra
+http://143.244.63.87/pinkextra/index.m3u8
+#EXTINF:-1,Pink Erotic 2
+http://143.244.63.87/pinkerotic2/index.m3u8
+#EXTINF:-1,Pink Erotic 3
+http://143.244.63.87/pinkerotic3/index.m3u8
+#EXTINF:-1,USA BBC News
+http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
+#EXTINF:-1,USA NBA
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:-1,HOLLYWOOD HD
+http://50.7.120.34:8080/HOLLYWOOD/index.m3u8
+#EXTINF:-1,Paris Premiere HD
+http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
